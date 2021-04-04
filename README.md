@@ -71,4 +71,4 @@
 
 <br>
 
-Made by [Jesse Lopes](https://github.com/JesseLopesDev). Follow me on [LinkedIn](https://www.linkedin.com/in/jess%C3%A9-lopes-050aa1170/).
+Made by [Higor Lopes](https://github.com/higor212). Follow me on [LinkedIn](https://www.linkedin.com/in/higorl/).
